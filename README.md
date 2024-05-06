@@ -34,8 +34,3 @@ By: [Wilis Araújo](https://www.dio.me/users/wilismar_silva)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wascomp&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wascomp/dio-lab-open-source)
 
 Contribuindo em um Projeto Open Source no Github da [Digital Innovation One](https://www.dio.me/)
-
-## 📚 Documentação
- [Documentação Git](https://git-scm.com/doc)
-
-[Documentação Github](https://docs.github.com/)
