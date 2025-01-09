@@ -1,6 +1,4 @@
-
-
-## [Wascomp](https://www.instagram.com/gera_mais_bsb/)
+## [Willys Araújo](https://www.instagram.com/prof.willysaraujo/)
 💻 Tech
 
 By: [Wilis Araújo](https://www.dio.me/users/wilismar_silva)
@@ -31,6 +29,3 @@ By: [Wilis Araújo](https://www.dio.me/users/wilismar_silva)
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wascomp&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wascomp/dio-lab-open-source)
-
-Contribuindo em um Projeto Open Source no Github da [Digital Innovation One](https://www.dio.me/)
