@@ -12,7 +12,7 @@ By: [Wilis Araújo](https://www.dio.me/users/wilismar_silva)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/wiliswasunb)
 
-[![Wascomp GitHub stats](https://github-readme-stats.vercel.app/api?username=Wascomp&theme=vision-friendly-dark)](https://github.com/Wascomp/github-readme-stats)
+[![Wascomp GitHub stats](https://github-readme-stats.vercel.app/api?username=Wascorp&theme=vision-friendly-dark)](https://github.com/Wascomp/github-readme-stats)
 
 ## Habilidades
 
